@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm ABAYIZERA Samuel</h1>
 <h3 align="center">Hi there! I'm Samuel, a full-stack developer who is passionate about building web and mobile applications. Currently, I'm focusing on honing my skills in mobile development to become a specialized mobile developer.</h3>
 
