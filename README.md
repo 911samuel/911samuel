@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=911samuel&label=Profile%20views&color=0e75b6&style=flat" alt="911samuel" /> </p>
 
-[![committers.top badge](https://user-badge.committers.top/rwanda_private/USERNAME.svg)](https://user-badge.committers.top/rwanda_private/911samuel)
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/911samuel.svg)](https://user-badge.committers.top/rwanda_private/911samuel)
 
 <p align="left"> 
   <a href="https://twitter.com/abayizerasam" target="_blank"><img src="https://img.shields.io/twitter/follow/abayizerasam?logo=twitter&style=for-the-badge" alt="abayizerasam" /></a> 
