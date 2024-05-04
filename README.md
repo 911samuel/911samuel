@@ -39,3 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=911samuel&show_icons=true&locale=en" alt="911samuel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=911samuel&" alt="911samuel" /></p>
+
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/USERNAME.svg)](https://user-badge.committers.top/rwanda_private/911samuel)
+
+This badge shows my ranking on committers.top.
+
