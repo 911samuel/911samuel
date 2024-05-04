@@ -7,7 +7,7 @@
   <a href="https://twitter.com/abayizerasam" target="_blank"><img src="https://img.shields.io/twitter/follow/abayizerasam?logo=twitter&style=for-the-badge" alt="abayizerasam" /></a> 
 </p>
 
-- 🔭 I’m currently working on [Hoop App](https://github.com/911samuel/hoop-app.git)
+- 🔭 I’m currently working on [MEDICA APP (TEAM PROJECT)](https://github.com/atlp-rwanda/commanders-rn-medica.git)
 
 - 🌱 I’m currently learning **React-Native**
 
