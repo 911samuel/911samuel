@@ -50,6 +50,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+  <a href="https://www.dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Frameworks and Libraries:</h3>
@@ -81,6 +84,9 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -96,6 +102,19 @@
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Backend as a Service:</h3>
+<p align="left">
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
+    <img src="https://supabase.io/new/images/logo-dark.png" alt="supabase" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+    <img src="https://appwrite.io/images/favicon.png" alt="appwrite" width="40" height="40"/>
   </a>
 </p>
 
